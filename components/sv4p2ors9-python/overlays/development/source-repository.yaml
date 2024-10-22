@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sv4p2ors9-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/sv4p2ors9-python
